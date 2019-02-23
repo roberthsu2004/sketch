@@ -1,77 +1,84 @@
 # 檢試sketch的技能
-## The Interface
-Canvas  
-Inspector  
-Layer List  
-Toolbar  
-Touch Bar  
+## 介面
+畫布  
+工作區  
+圖層檢視器  
+工具導覽列 
+ 
 
-## Layer Basics
-Adding Layers  
-Selecting Layers  
-Moving Layers  
-Resizing Layers  
-Resizing Constraints  
-Editing Layers  
+## 圖層基本技巧
+新增圖層 
+選擇圖層  
+移動圖層  
+改變圖層大小 
+條件式改變大小 
+編輯圖層 
 
-## Shapes
-Editing Shapes  
-Boolean Operations  
-Rotate and Transform  
-Masking  
-Scissors  
-Rotate Copies  
-Pencil  
+## 形狀
+編緝形狀  
+多個形狀結合方式  
+旋轉和變形  
+遮罩  
+剪刀工具  
+旋轉複制  
+鉛筆工具  
 
-## Vector Editing
-Vector Tool  
-Points and Paths  
+## 向量編輯
+向量工具  
+向量點和路徑  
 
-## Text
-Text Inspector  
-Text Styles  
-Text on Path  
-Convert to Outlines  
+## 文字
+文字檢視器  
+文字樣式 
+路徑文字  
+文字轉為向量  
 
-## Images
-Bitmap Editing  
-Color Adjust  
+## 影像
+影像編輯 
+調整顏色 
 
-## Data
+## 資料
 
-## Grouping Layers
-Groups  
-Artboards  
-Pages  
+## 群組圖層
+編輯群組  
+工作區  
+頁面  
 
-## Styling
-Fills  
-Borders  
-Shadows  
-Blurs  
-Colors  
-Gradients  
-Presets  
-Layer Styles  
+## 樣式
+填滿  
+邊框  
+陰影  
+模糊  
+顏色  
+漸層  
+預先設定  
+圖層樣式  
 
-## Symbols
-Creating Symbols  
-Editing Symbols  
-Symbol Overrides  
-Organizing Symbols  
-Nested Symbols  
+## symbol
+建立symbol  
+編輯symbol  
+symbol覆寫  
+組織symbol  
+巢狀symbol  
 
 ## Libraries
-Adding Libraries  
+增加 Libraries  
 Library Symbols  
-Library Styles  
-Library Updates  
-Shared Libraries  
+Library 樣式  
+Library 更新  
+分享 Libraries  
 
-## Exporting
-Make Exportable  
-Slices  
-File Formats  
-Exporting Artboards  
-Code Export  
-Printing  
+## 輸出
+轉換為可輸出 
+切片  
+輸出檔案格式  
+輸出工作品 
+CSS 輸出  
+列印
+
+## 偏好設定
+一般
+畫布
+圖層
+插件
+預先設定  
